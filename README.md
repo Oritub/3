@@ -1,2 +1,44 @@
 # 3
 #index.html
+
+<html>
+<header>
+<h1>10 самых дорогих блюд в мире</h1>
+  <link rel="stylesheet" href="style.css"/>
+</header>
+<main>
+<p class="b">1.FleurBurger 5000</p>
+<p>Стоимость: $5000<br>Где готовят: Fleur, Лас-Вегас, США<br></p>
+<p class="b">2.Golden Opulence Sundae</p>
+<p>Стоимость: $1000<br>
+Где готовят: Serendipity III, Нью-Йорк, США<br>
+</p>
+<p class="b">3.Zillion Dollar Lobster Frittata</p>
+<p>Стоимость: $1000<br>
+Где готовят: Norma’s, Le Parker Meridien, Нью-Йорк, США<br></p>
+<p class="b">4.Sushi Del Oriente</p>
+<p>Стоимость: $2034<br>
+Кто готовит: Ангелито Аранета-младший, Манила, Филиппины<br>
+</p>
+<p class="b">5.Pizza Louis XIII</p>
+<p>Стоимость: €8300<br>
+Кто готовит: Ренато Виола<br></p>
+<p class="b">6.Macaroons Haute Couture</p>
+<p>Стоимость: от €5750 за фунт<br>
+Кто готовит: Пьер Эрме, Париж, Франция<br></p>
+<p class="b">7.Samundari Khazana</p>
+<p>Стоимость: £2000<br>
+Где готовят: Bombay Brasserie, Лондон, Великобритания<br></p>
+<p class="b">8.The Fortress Stilt Fisherman Indulgence</p>
+<p>Стоимость: $14500<br>
+Где готовят: Wine3, The Fortress Resort and Spa, Галле, Шри-Ланка<br></p>
+<p class="b">9.Wagyu Meat Pie</p>
+<p>Стоимость: ₤8000<br>
+Где готовят: Fence Gate Inn, Ланкашир, Британия<br></p>
+<p class="b">10.Sultan's Golden Cake</p>
+<p>Стоимость: $1000<br>
+Где готовят: Çırağan Palace Kempinski, Стамбул, Турция<br></p>
+<a href="https://htmlbook.ru/html">Читайте также-10 самых маленьких животных</a><br>
+<a href="https://oritub.github.io/2/">Читайте также-10 самых дорогих картин в мире</a><br>
+</main>
+</html>
